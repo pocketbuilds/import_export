@@ -9,7 +9,7 @@ require (
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/pocketbase/dbx v1.10.1
 	github.com/pocketbase/pocketbase v0.23.0
-	github.com/pocketbuilds/xpb v0.0.2
+	github.com/pocketbuilds/xpb v0.0.3
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/cobra v1.8.1
 	gopkg.in/yaml.v3 v3.0.1

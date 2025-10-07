@@ -177,6 +177,8 @@ github.com/pocketbase/pocketbase v0.23.0 h1:/R/R7hF7mXf95OijbSCRz758872EQeF+Z5e6
 github.com/pocketbase/pocketbase v0.23.0/go.mod h1:hm8uYGFMzUbAXRjbZyyeaUV0Dys8Ntw/3BL0jf/5/rM=
 github.com/pocketbuilds/xpb v0.0.2 h1:4bfrl5E+d+h7C5Fpv2HLAu+eSDD5wln8Aj0VUumgreE=
 github.com/pocketbuilds/xpb v0.0.2/go.mod h1:BUZzN1tgKAmfN5P4yLsJZeXybEUkSWYhOk5bBnXTBvM=
+github.com/pocketbuilds/xpb v0.0.3 h1:eS8A8YjM6dgc9IrTS2vWvefuDuOsHStzughBnru5eWc=
+github.com/pocketbuilds/xpb v0.0.3/go.mod h1:BUZzN1tgKAmfN5P4yLsJZeXybEUkSWYhOk5bBnXTBvM=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
