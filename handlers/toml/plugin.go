@@ -6,7 +6,7 @@ import (
 	"io"
 
 	"github.com/BurntSushi/toml"
-	"github.com/pocketbase/pocketbase/core"
+	"ganigeorgiev.com/pocketbase/pocketbase/core"
 )
 
 type Plugin struct {

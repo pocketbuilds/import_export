@@ -7,11 +7,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pocketbase/pocketbase/tools/inflector"
+	"ganigeorgiev.com/pocketbase/pocketbase/tools/inflector"
 )
 
 // borrowed from pocketbase to support older pocketbase versions
-// https://github.com/pocketbase/pocketbase/blob/b1f1d19d7f0422a373c6de810f42376a7e62dfa4/tools/osutils/cmd.go#L40
+// https://ganigeorgiev.com/pocketbase/pocketbase/blob/b1f1d19d7f0422a373c6de810f42376a7e62dfa4/tools/osutils/cmd.go#L40
 func confirm(message string, fallback bool) bool {
 	options := "Y/n"
 	if !fallback {

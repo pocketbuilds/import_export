@@ -3,9 +3,9 @@ package import_export
 import (
 	"path/filepath"
 
-	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/pocketbase/pocketbase"
-	"github.com/pocketbase/pocketbase/core"
+	validation "ganigeorgiev.com/pocketbase/ozzo-validation/v4"
+	"ganigeorgiev.com/pocketbase/pocketbase"
+	"ganigeorgiev.com/pocketbase/pocketbase/core"
 	"github.com/pocketbuilds/import_export/flags"
 	import_export_csv "github.com/pocketbuilds/import_export/handlers/csv"
 	import_export_json "github.com/pocketbuilds/import_export/handlers/json"

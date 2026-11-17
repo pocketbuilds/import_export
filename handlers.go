@@ -3,7 +3,7 @@ package import_export
 import (
 	"io"
 
-	"github.com/pocketbase/pocketbase/core"
+	"ganigeorgiev.com/pocketbase/pocketbase/core"
 )
 
 type Handler interface {

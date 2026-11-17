@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	validation "github.com/go-ozzo/ozzo-validation/v4"
+	validation "ganigeorgiev.com/pocketbase/ozzo-validation/v4"
 )
 
 type RadioValue struct {
